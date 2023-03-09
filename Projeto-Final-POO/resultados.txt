@@ -5,3 +5,9 @@ Vitorias: 0, Empates: 0, Derrotas: 1
 Vitorias: 1, Empates: 0, Derrotas: 0
 
 +=============================================+
+Vitorias: 1, Empates: 0, Derrotas: 0
+
++=============================================+
+Vitorias: 0, Empates: 0, Derrotas: 1
+
++=============================================+
